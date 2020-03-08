@@ -1,0 +1,201 @@
+movie,year,imdb_ratings,votes,Director
+Joker,(2019),8.6,700385,Todd Phillips
+Avengers: Endgame,(2019),8.5,674989,Anthony Russo
+Chernobyl,(2019),9.4,423147,Jessie Buckley
+Once Upon a Time... in Hollywood,(2019),7.7,399597,Quentin Tarantino
+Captain Marvel,(2019),6.9,396700,Anna Boden
+Parasite,(2019),8.6,292465,Bong Joon Ho
+Spider-Man: Far from Home,(2019),7.5,266993,Jon Watts
+Star Wars: Episode IX - The Rise of Skywalker,(2019),6.8,260919,J.J. Abrams
+The Irishman,(2019),8.0,252418,Martin Scorsese
+John Wick: Chapter 3 - Parabellum,(2019),7.5,227071,Chad Stahelski
+The Witcher,(2019– ),8.3,225351,Henry Cavill
+Shazam!,(2019),7.1,218699,David F. Sandberg
+ Game of Thrones,(2011–2019),4.1,218444,David Benioff
+1917,(2019),8.4,204912,Sam Mendes
+Knives Out,(2019),8.0,204074,Rian Johnson
+ Game of Thrones,(2011–2019),7.5,199295,Miguel Sapochnik
+Alita: Battle Angel,(2019),7.3,192947,Robert Rodriguez
+Aladdin,(2019),7.0,188730,Guy Ritchie
+Us,(II) (2019),6.9,185449,Jordan Peele
+Glass,(2019),6.7,183198,M. Night Shyamalan
+Marriage Story,(2019),8.0,182421,Noah Baumbach
+ Game of Thrones,(2011–2019),6.0,176943,Miguel Sapochnik
+The Lion King,(2019),6.9,169984,Jon Favreau
+Toy Story 4,(2019),7.8,161445,Josh Cooley
+It Chapter Two,(2019),6.6,160017,Andy Muschietti
+Ford v Ferrari,(2019),8.2,156751,James Mangold
+El Camino: A Breaking Bad Movie,(2019),7.4,151979,Vince Gilligan
+ Game of Thrones,(2011–2019),5.5,151928,David Nutter
+Jojo Rabbit,(2019),8.0,148590,Taika Waititi
+Ad Astra,(2019),6.6,147797,James Gray
+The Mandalorian,(2019– ),8.8,138698,Pedro Pascal
+Fast & Furious Presents: Hobbs & Shaw,(2019),6.5,134461,David Leitch
+The Boys,(2019– ),8.7,132383,Karl Urban
+X-Men: Dark Phoenix,(2019),5.8,125717,Simon Kinberg
+Midsommar,(2019),7.1,122448,Ari Aster
+ Game of Thrones,(2011–2019),7.6,121100,David Nutter
+ Game of Thrones,(2011–2019),7.9,119187,David Nutter
+Pokémon Detective Pikachu,(2019),6.6,115808,Rob Letterman
+Sex Education,(2019– ),8.3,114186,Asa Butterfield
+Uncut Gems,(2019),7.6,112401,Benny Safdie
+Godzilla: King of the Monsters,(2019),6.1,110214,Michael Dougherty
+6 Underground,(2019),6.1,103425,Michael Bay
+Terminator: Dark Fate,(2019),6.3,101360,Tim Miller
+Rocketman,(I) (2019),7.3,97988,Dexter Fletcher
+The Umbrella Academy,(2019– ),8.0,93731,Ellen Page
+Jumanji: The Next Level,(2019),6.8,92794,Jake Kasdan
+Triple Frontier,(2019),6.5,91442,J.C. Chandor
+How to Train Your Dragon: The Hidden World,(2019),7.5,87891,Dean DeBlois
+Zombieland: Double Tap,(2019),6.8,87599,Ruben Fleischer
+Men in Black: International,(2019),5.6,87547,F. Gary Gray
+Joker,(2019),8.6,700385,Todd Phillips
+Avengers: Endgame,(2019),8.5,674989,Anthony Russo
+Chernobyl,(2019),9.4,423147,Jessie Buckley
+Once Upon a Time... in Hollywood,(2019),7.7,399597,Quentin Tarantino
+Captain Marvel,(2019),6.9,396700,Anna Boden
+Parasite,(2019),8.6,292465,Bong Joon Ho
+Spider-Man: Far from Home,(2019),7.5,266993,Jon Watts
+Star Wars: Episode IX - The Rise of Skywalker,(2019),6.8,260919,J.J. Abrams
+The Irishman,(2019),8.0,252418,Martin Scorsese
+John Wick: Chapter 3 - Parabellum,(2019),7.5,227071,Chad Stahelski
+The Witcher,(2019– ),8.3,225351,Henry Cavill
+Shazam!,(2019),7.1,218699,David F. Sandberg
+ Game of Thrones,(2011–2019),4.1,218444,David Benioff
+1917,(2019),8.4,204912,Sam Mendes
+Knives Out,(2019),8.0,204074,Rian Johnson
+ Game of Thrones,(2011–2019),7.5,199295,Miguel Sapochnik
+Alita: Battle Angel,(2019),7.3,192947,Robert Rodriguez
+Aladdin,(2019),7.0,188730,Guy Ritchie
+Us,(II) (2019),6.9,185449,Jordan Peele
+Glass,(2019),6.7,183198,M. Night Shyamalan
+Marriage Story,(2019),8.0,182421,Noah Baumbach
+ Game of Thrones,(2011–2019),6.0,176943,Miguel Sapochnik
+The Lion King,(2019),6.9,169984,Jon Favreau
+Toy Story 4,(2019),7.8,161445,Josh Cooley
+It Chapter Two,(2019),6.6,160017,Andy Muschietti
+Ford v Ferrari,(2019),8.2,156751,James Mangold
+El Camino: A Breaking Bad Movie,(2019),7.4,151979,Vince Gilligan
+ Game of Thrones,(2011–2019),5.5,151928,David Nutter
+Jojo Rabbit,(2019),8.0,148590,Taika Waititi
+Ad Astra,(2019),6.6,147797,James Gray
+The Mandalorian,(2019– ),8.8,138698,Pedro Pascal
+Fast & Furious Presents: Hobbs & Shaw,(2019),6.5,134461,David Leitch
+The Boys,(2019– ),8.7,132383,Karl Urban
+X-Men: Dark Phoenix,(2019),5.8,125717,Simon Kinberg
+Midsommar,(2019),7.1,122448,Ari Aster
+ Game of Thrones,(2011–2019),7.6,121100,David Nutter
+ Game of Thrones,(2011–2019),7.9,119187,David Nutter
+Pokémon Detective Pikachu,(2019),6.6,115808,Rob Letterman
+Sex Education,(2019– ),8.3,114186,Asa Butterfield
+Uncut Gems,(2019),7.6,112401,Benny Safdie
+Godzilla: King of the Monsters,(2019),6.1,110214,Michael Dougherty
+6 Underground,(2019),6.1,103425,Michael Bay
+Terminator: Dark Fate,(2019),6.3,101360,Tim Miller
+Rocketman,(I) (2019),7.3,97988,Dexter Fletcher
+The Umbrella Academy,(2019– ),8.0,93731,Ellen Page
+Jumanji: The Next Level,(2019),6.8,92794,Jake Kasdan
+Triple Frontier,(2019),6.5,91442,J.C. Chandor
+How to Train Your Dragon: The Hidden World,(2019),7.5,87891,Dean DeBlois
+Zombieland: Double Tap,(2019),6.8,87599,Ruben Fleischer
+Men in Black: International,(2019),5.6,87547,F. Gary Gray
+Joker,(2019),8.6,700385,Todd Phillips
+Avengers: Endgame,(2019),8.5,674989,Anthony Russo
+Chernobyl,(2019),9.4,423147,Jessie Buckley
+Once Upon a Time... in Hollywood,(2019),7.7,399597,Quentin Tarantino
+Captain Marvel,(2019),6.9,396700,Anna Boden
+Parasite,(2019),8.6,292465,Bong Joon Ho
+Spider-Man: Far from Home,(2019),7.5,266993,Jon Watts
+Star Wars: Episode IX - The Rise of Skywalker,(2019),6.8,260919,J.J. Abrams
+The Irishman,(2019),8.0,252418,Martin Scorsese
+John Wick: Chapter 3 - Parabellum,(2019),7.5,227071,Chad Stahelski
+The Witcher,(2019– ),8.3,225351,Henry Cavill
+Shazam!,(2019),7.1,218699,David F. Sandberg
+ Game of Thrones,(2011–2019),4.1,218444,David Benioff
+1917,(2019),8.4,204912,Sam Mendes
+Knives Out,(2019),8.0,204074,Rian Johnson
+ Game of Thrones,(2011–2019),7.5,199295,Miguel Sapochnik
+Alita: Battle Angel,(2019),7.3,192947,Robert Rodriguez
+Aladdin,(2019),7.0,188730,Guy Ritchie
+Us,(II) (2019),6.9,185449,Jordan Peele
+Glass,(2019),6.7,183198,M. Night Shyamalan
+Marriage Story,(2019),8.0,182421,Noah Baumbach
+ Game of Thrones,(2011–2019),6.0,176943,Miguel Sapochnik
+The Lion King,(2019),6.9,169984,Jon Favreau
+Toy Story 4,(2019),7.8,161445,Josh Cooley
+It Chapter Two,(2019),6.6,160017,Andy Muschietti
+Ford v Ferrari,(2019),8.2,156751,James Mangold
+El Camino: A Breaking Bad Movie,(2019),7.4,151979,Vince Gilligan
+ Game of Thrones,(2011–2019),5.5,151928,David Nutter
+Jojo Rabbit,(2019),8.0,148590,Taika Waititi
+Ad Astra,(2019),6.6,147797,James Gray
+The Mandalorian,(2019– ),8.8,138698,Pedro Pascal
+Fast & Furious Presents: Hobbs & Shaw,(2019),6.5,134461,David Leitch
+The Boys,(2019– ),8.7,132383,Karl Urban
+X-Men: Dark Phoenix,(2019),5.8,125717,Simon Kinberg
+Midsommar,(2019),7.1,122448,Ari Aster
+ Game of Thrones,(2011–2019),7.6,121100,David Nutter
+ Game of Thrones,(2011–2019),7.9,119187,David Nutter
+Pokémon Detective Pikachu,(2019),6.6,115808,Rob Letterman
+Sex Education,(2019– ),8.3,114186,Asa Butterfield
+Uncut Gems,(2019),7.6,112401,Benny Safdie
+Godzilla: King of the Monsters,(2019),6.1,110214,Michael Dougherty
+6 Underground,(2019),6.1,103425,Michael Bay
+Terminator: Dark Fate,(2019),6.3,101360,Tim Miller
+Rocketman,(I) (2019),7.3,97988,Dexter Fletcher
+The Umbrella Academy,(2019– ),8.0,93731,Ellen Page
+Jumanji: The Next Level,(2019),6.8,92794,Jake Kasdan
+Triple Frontier,(2019),6.5,91442,J.C. Chandor
+How to Train Your Dragon: The Hidden World,(2019),7.5,87891,Dean DeBlois
+Zombieland: Double Tap,(2019),6.8,87599,Ruben Fleischer
+Men in Black: International,(2019),5.6,87547,F. Gary Gray
+Joker,(2019),8.6,700385,Todd Phillips
+Avengers: Endgame,(2019),8.5,674989,Anthony Russo
+Chernobyl,(2019),9.4,423147,Jessie Buckley
+Once Upon a Time... in Hollywood,(2019),7.7,399597,Quentin Tarantino
+Captain Marvel,(2019),6.9,396700,Anna Boden
+Parasite,(2019),8.6,292465,Bong Joon Ho
+Spider-Man: Far from Home,(2019),7.5,266993,Jon Watts
+Star Wars: Episode IX - The Rise of Skywalker,(2019),6.8,260919,J.J. Abrams
+The Irishman,(2019),8.0,252418,Martin Scorsese
+John Wick: Chapter 3 - Parabellum,(2019),7.5,227071,Chad Stahelski
+The Witcher,(2019– ),8.3,225351,Henry Cavill
+Shazam!,(2019),7.1,218699,David F. Sandberg
+ Game of Thrones,(2011–2019),4.1,218444,David Benioff
+1917,(2019),8.4,204912,Sam Mendes
+Knives Out,(2019),8.0,204074,Rian Johnson
+ Game of Thrones,(2011–2019),7.5,199295,Miguel Sapochnik
+Alita: Battle Angel,(2019),7.3,192947,Robert Rodriguez
+Aladdin,(2019),7.0,188730,Guy Ritchie
+Us,(II) (2019),6.9,185449,Jordan Peele
+Glass,(2019),6.7,183198,M. Night Shyamalan
+Marriage Story,(2019),8.0,182421,Noah Baumbach
+ Game of Thrones,(2011–2019),6.0,176943,Miguel Sapochnik
+The Lion King,(2019),6.9,169984,Jon Favreau
+Toy Story 4,(2019),7.8,161445,Josh Cooley
+It Chapter Two,(2019),6.6,160017,Andy Muschietti
+Ford v Ferrari,(2019),8.2,156751,James Mangold
+El Camino: A Breaking Bad Movie,(2019),7.4,151979,Vince Gilligan
+ Game of Thrones,(2011–2019),5.5,151928,David Nutter
+Jojo Rabbit,(2019),8.0,148590,Taika Waititi
+Ad Astra,(2019),6.6,147797,James Gray
+The Mandalorian,(2019– ),8.8,138698,Pedro Pascal
+Fast & Furious Presents: Hobbs & Shaw,(2019),6.5,134461,David Leitch
+The Boys,(2019– ),8.7,132383,Karl Urban
+X-Men: Dark Phoenix,(2019),5.8,125717,Simon Kinberg
+Midsommar,(2019),7.1,122448,Ari Aster
+ Game of Thrones,(2011–2019),7.6,121100,David Nutter
+ Game of Thrones,(2011–2019),7.9,119187,David Nutter
+Pokémon Detective Pikachu,(2019),6.6,115808,Rob Letterman
+Sex Education,(2019– ),8.3,114186,Asa Butterfield
+Uncut Gems,(2019),7.6,112401,Benny Safdie
+Godzilla: King of the Monsters,(2019),6.1,110214,Michael Dougherty
+6 Underground,(2019),6.1,103425,Michael Bay
+Terminator: Dark Fate,(2019),6.3,101360,Tim Miller
+Rocketman,(I) (2019),7.3,97988,Dexter Fletcher
+The Umbrella Academy,(2019– ),8.0,93731,Ellen Page
+Jumanji: The Next Level,(2019),6.8,92794,Jake Kasdan
+Triple Frontier,(2019),6.5,91442,J.C. Chandor
+How to Train Your Dragon: The Hidden World,(2019),7.5,87891,Dean DeBlois
+Zombieland: Double Tap,(2019),6.8,87599,Ruben Fleischer
+Men in Black: International,(2019),5.6,87547,F. Gary Gray
